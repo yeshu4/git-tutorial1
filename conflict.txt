@@ -5,14 +5,20 @@ Main(){
 
 }
 
+
 Feature1(){
 //This is feature1 developed by developer1
 //Without having secure patch updated we have added this feature
 //now, we will see how this cause conflict
+
+}
+Feature2(){
+//Here we are trying to add feature2 by developer 2
+// Here there is no update of both feature1 and secure patch
+// we will see how the patch is updated first
 }
 
 Secure patch(){
 // this code is used for creating merge conflict
 // We are trying to create a conflict to resolve
-
 }

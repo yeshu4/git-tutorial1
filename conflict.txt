@@ -4,3 +4,8 @@ Main(){
 // Legacy code
 
 }
+Feature1(){
+//This is feature1 developed by developer1
+//Without having secure patch updated we have added this feature
+//now, we will see how this cause conflict
+}

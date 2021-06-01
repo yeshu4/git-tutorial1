@@ -4,3 +4,9 @@ Main(){
 // Legacy code
 
 }
+Feature2(){
+//Here we are trying to add feature2 by developer 2
+// Here there is no update of both feature1 and secure patch
+// we will see how the patch is updated first
+
+}
